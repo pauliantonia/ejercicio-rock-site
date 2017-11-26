@@ -1,0 +1,104 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #343a40;
+    color: white;
+}
+
+.title {
+    font-size: 130%;
+    margin-left: 20%;
+    font-weight: 400;    
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+    margin: 0% 1% 0% 1%;
+    font-weight: 400;
+}
+
+.other-color {
+    color: #84898e;
+}
+
+.list-options {
+    text-align: right;
+    margin-right: 20%;
+}
+
+.container-homepage {
+    padding: 0;
+    background-color: grey;
+}
+
+.container-title-homepage {
+    text-align: center;
+    font-size: 350%;
+    margin: 15% 0% 15% 0%;
+}
+
+.title2,
+.title3 {
+    font-weight: 300;
+    color: white;
+}
+
+.text-about,
+.text-there {
+    text-align: left;
+    font-weight: 300;
+    font-size: 100%;
+    margin: 15% 4% 10% 11%;
+}
+
+.title-about,
+.title-salute,
+.title-there {
+    font-weight: 300;
+    font-size: 300%;
+    margin-bottom: 2%;
+}
+
+.image-about,
+.image-salute {
+    border-radius: 300px;
+    width: 80%;
+    margin-top: 5%;
+}
+
+.container-salute {
+    margin-top: 4%;
+}
+
+.container-there {
+    margin-bottom: 2%;
+}
+
+.image-salute {
+    margin-left: 18%;
+}
+
+.text-salute {
+    text-align: left;
+    font-weight: 300;
+    font-size: 100%;
+    margin: 12% 11% 10% 4%;
+}
+
+.image-there {
+    border-radius: 300px;
+    margin-top: 5%;
+}
+
+.container-final {
+    background-color: #343a40; 
+}
+
+.final-text {
+    text-align: center;
+    color: white;
+    margin: 3% 0% 3% 0%;
+}
