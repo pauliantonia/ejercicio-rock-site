@@ -30,8 +30,7 @@ li {
 }
 
 .container-homepage {
-    padding: 0;
-    background-color: grey;
+    background-image: url("../images/header.jpg");
 }
 
 .container-title-homepage {

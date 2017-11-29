@@ -1,0 +1,46 @@
+@media (min-width: 10px) and (max-width: 750px) {
+    [class*="col-"] {
+        width: 100%;
+    }   
+
+    .title {
+        font-size: 195%;
+    }
+
+    .list-options {
+       margin: 0% 5% 0% 0%;
+       text-align: center;
+    }
+
+    .container-homepage {
+        width: 100%;
+        padding: 20%;
+    }
+
+    .container-about,
+    .container-salute,
+    .container-there {
+        width: 100%;
+        text-align: center;
+    }
+
+    .text-about,
+    .text-salute,
+    .text-there {
+        margin: 10% 0% 10% 0%;
+        font-size: 150%;   
+    }
+
+    .image-salute {
+        margin: 5% 0% 5% 0%;
+    }
+
+    .image-there {
+        width: 95%;
+    }
+
+    .final-text {
+        margin: 10% 0% 10% 0%;
+        font-size: 120%;
+    }
+}
